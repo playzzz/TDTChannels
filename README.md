@@ -1,4 +1,4 @@
-# TDTChannels - IPTV channels for free without any ad
+# TDTChannels - IPTV channels for free and no ads
 TDTChannels is a worldwide platform with the objective of offer all the TV and radio channels available openly of any country.
 
 Last update 00/00/2020 at 00:00 AM/PM
@@ -7,7 +7,7 @@ Last update 00/00/2020 at 00:00 AM/PM
 
 
 ### Tools
-| | Enlace |
+| | Link |
 | -	| -	|
 | **Web** | [Access](https://www.tdtchannels.com/) |
 | **Android app** | [Download here](https://www.tdtchannels.com/android) |
@@ -18,25 +18,35 @@ Last update 00/00/2020 at 00:00 AM/PM
 
 ### Apps/Webs that use our data base
 #### Web
-- [TDTChannels](https://www.tdtchannels.com/): Telegram support. Official web.
-- [Teleonline](http://teleonline.org/)
+| | Website | Official support | Free | No ads | Developer |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://www.tdtchannels.com	| ✔ | ✔ | ✔ | LaQuay |
+| Teleonline	| http://teleonline.org	| ❌ | ✔ | ✔ | Unknown |
 
 #### Android
-- [TDTChannels](https://www.tdtchannels.com): Official Android app. Telegram support. Free, no ads.
-- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Official Android app. Telegram support. Free, open source, no ads.
-- [FeedTV](https://github.com/juanro49/FeedTV): App that allows you to read news via RSS in addition to viewing channels from this repository. Free and open source.
+| | Website | Official support | Free | No ads | Developer |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://www.tdtchannels.com/android	| ✔ | ✔ | ✔ | LaQuay |
+| TDTChannels Open	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | LaQuay |
+| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | Unknown |
 
 #### iOS
-- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
-- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - developed by [RubenApps](https://ruben.app/): Telegram support. Free, no ads.
-- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Telegram support. Free, no ads.
+| | Website | Official support | Free | No ads | Developer |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| TDTChannels	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | [RubenApps](https://ruben.app/) |
+| IPTVPlayer	| https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17	| ❌ | ✔ | ✔ | Unknown |
 
 #### iPadOS
-- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
+| | Website | Official support | Free | No ads | Developer |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
 
 #### macOS
-- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
-- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - developed by [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
+| | Website | Official support | Free | No ads | Developer |
+| -	| -	|:-:|:-:|:-:| - |
+| TDTChannels	| https://apps.apple.com/es/app/tdtchannels-2/id1511466333	| ✔ | ✔ | ✔ | Jako 88 |
+| IPTV	| https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels	| ❌ | ✔ | ✔ | [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps) |
 
 ### Help
 _Wiki_ of the project [aquí](https://github.com/LaQuay/TDTChannels/wiki).
