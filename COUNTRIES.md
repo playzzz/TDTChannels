@@ -48,8 +48,8 @@
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/thailand.png" width="30"/> | Thailand | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/turkey.png" width="30"/> | Turkey | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/turkmenistan.png" width="30"/> | Turkmenistan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/tnited-arab-emirates.png" width="30"/> | United Arab Emirates | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/uzbekistan.png" width="30"/> | Uzbekistan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/united-arab-emirates.png" width="30"/> | United Arab Emirates | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/uzbekistn.png" width="30"/> | Uzbekistan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/vietnam.png" width="30"/> | Vietnam | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/yemen.png" width="30"/> | Yemen | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 
