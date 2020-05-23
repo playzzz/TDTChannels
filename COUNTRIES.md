@@ -1,29 +1,41 @@
 # Countries by the continent
 
-## America
-| Flag | Country | TV md | Radio md | Format | | | | | | |
-|:---:| - | - | - | - | - | - | - | - | - | - |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/united-states-of-america.png" width="30"/> | United States of America | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-
 ## Asia
 | Flag | Country | TV md | Radio md | Format | | | | | | |
 |:---:| - | - | - | - | - | - | - | - | - | - |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/afghanistan.png" width="30"/> | Afghanistan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/armenia.png" width="30"/> | Armenia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/bahrain.png" width="30"/> | Bahrain | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/bangladesh.png" width="30"/> | Bangladesh | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/bhutan.png" width="30"/> | Bhutan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/brunei.png" width="30"/> | Brunei | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/cambodia.png" width="30"/> | Cambodia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/china.png" width="30"/> | China | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/cyprus.png" width="30"/> | Cyprus | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/east-timor.png" width="30"/> | East Timor | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/georgia.png" width="30"/> | Georgia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/india.png" width="30"/> | India | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/indonesia.png" width="30"/> | Indonesia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/iran.png" width="30"/> | Iran | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/iraq.png" width="30"/> | Iraq | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/israel.png" width="30"/> | Israel | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/japan.png" width="30"/> | Japan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/jordan.png" width="30"/> | Jordan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/kazakhstan.png" width="30"/> | Kazakhstan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/kuwait.png" width="30"/> | Kuwait | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 
 ## Europe
 | Flag | Country | TV md | Radio md | Format | | | | | | |
 |:---:| - | - | - | - | - | - | - | - | - | - |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/albania.png" width="30"/> | Albania | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/andorra.png" width="30"/> | Andorra | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/armenia.png" width="30"/> | Armenia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/austria.png" width="30"/> | Austria | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/azerbaijan.png" width="30"/> | Azerbaijan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/belarus.png" width="30"/> | Belarus | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/belgium.png" width="30"/> | Belgium | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/bosnia-and-herzegovina.png" width="30"/> | Bosnia and Herzegovina | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/bulgaria.png" width="30"/> | Bulgaria | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/croatia.png" width="30"/> | Croatia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/cyprus.png" width="30"/> | Cyprus | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/czech-republic.png" width="30"/> | Czech Republic | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/denmark.png" width="30"/> | Denmark | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/estonia.png" width="30"/> | Estonia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
@@ -36,7 +48,6 @@
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/iceland.png" width="30"/> | Iceland | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/ireland.png" width="30"/> | Ireland | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/italy.png" width="30"/> | Italy | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/kazakhstan.png" width="30"/> | Kazakhstan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/kosovo.png" width="30"/> | Kosovo | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/latvia.png" width="30"/> | Latvia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/liechtenstein.png" width="30"/> | Liechtenstein | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
@@ -65,6 +76,24 @@
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/united-kingdom.png" width="30"/> | United Kingdom | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/vatican-city.png" width="30"/> | Vatican City | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 
+## North America
+| Flag | Country | TV md | Radio md | Format | | | | | | |
+|:---:| - | - | - | - | - | - | - | - | - | - |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/canada.png" width="30"/> | Canada | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/costa-rica.png" width="30"/> | Costa Rica | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/cuba.png" width="30"/> | Cuba | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/dominican-republic.png" width="30"/> | Dominican Republic | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/salvador.png" width="30"/> | El Salvador | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/guatemala.png" width="30"/> | Guatemala | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/haiti.png" width="30"/> | Haiti | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/honduras.png" width="30"/> | Honduras | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/jamaica.png" width="30"/> | Jamaica | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/mexico.png" width="30"/> | Mexico | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/nicaragua.png" width="30"/> | Nicaragua | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/panama.png" width="30"/> | Panama | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/puerto-rico.png" width="30"/> | Puerto Rico | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/united-states-of-america.png" width="30"/> | United States of America | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+
 ## Oceania
 | Flag | Country | TV md | Radio md | Format | | | | | | |
 |:---:| - | - | - | - | - | - | - | - | - | - |
@@ -84,3 +113,19 @@
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/tonga.png" width="30"/> | Kingdom of Tonga | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/vanuatu.png" width="30"/> | Republic of Vanuatu	 | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/tuvalu.png" width="30"/> | Tuvalu | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+
+## South America
+| Flag | Country | TV md | Radio md | Format | | | | | | |
+|:---:| - | - | - | - | - | - | - | - | - | - |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/argentina.png" width="30"/> | Argentina | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/bolivia.png" width="30"/> | Bolivia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/brazil.png" width="30"/> | Brazil | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/chile.png" width="30"/> | Chile | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/colombia.png" width="30"/> | Colombia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/ecuador.png" width="30"/> | Ecuador | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/guyana.png" width="30"/> | Guyana | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/paraguay.png" width="30"/> | Paraguay | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/peru.png" width="30"/> | Peru | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/suriname.png" width="30"/> | Suriname | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/uruguay.png" width="30"/> | Uruguay | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/venezuela.png" width="30"/> | Venezuela | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
