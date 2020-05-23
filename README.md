@@ -1,27 +1,42 @@
 # TDTChannels - IPTV channels for free without any ad
 TDTChannels is a worldwide platform with the objective of offer all the TV and radio channels available openly of any country.
+
 Last update 00/00/2020 at 00:00 AM/PM
 
 ### How it works
 
 
-
-
-- *Navegador*: Visionado "manual" en el navegador.
-- *JSON*: Formato de datos especial para otros programas de lectura de datos.
-- *M3U8* y *M3U*: Listado completo de las emisoras, listo para introducir en tu reproductor deseado.
-- *ENIGMA2*: Formato especial para el receptor Linux Enigma2.
-- *W3U*: Formato especial para [Wiseplay](https://play.google.com/store/apps/details?id=com.wiseplay).
-- *EPG*: Si no te carga de forma automática, deberás incluir la ruta en tu reproductor. 
-
-### Herramientas
+### Tools
 | | Enlace |
 | -	| -	|
-| **Página web** | [TDTChannels](https://www.tdtchannels.com/) |
-| **Aplicación Android** | [TDTChannels](https://www.tdtchannels.com/android) |
-| **Aplicación Android Open** | [Repositorio](https://github.com/LaQuay/TDTChannels-APP) de la versión Open Source |
-| **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
-| **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
+| **Web** | [Access](https://www.tdtchannels.com/) |
+| **Android app** | [Download here](https://www.tdtchannels.com/android) |
+| **iOS/iPadOS/macOS app** | [Download here](https://www.tdtchannels.com/iphone) |
+| **android open source app** | [Repository](https://github.com/LaQuay/TDTChannels-APP) of the open source version |
+| **Telegram** | [Access](https://t.me/tdtchannels) to the group |
+| **Telegram - Notices** | [Access](https://t.me/tdtchannels_avisos) to the channel |
+
+### Apps/Webs that use our data base
+#### Web
+- [TDTChannels](https://www.tdtchannels.com/): Telegram support. Official web.
+- [Teleonline](http://teleonline.org/)
+
+#### Android
+- [TDTChannels](https://www.tdtchannels.com): Official Android app. Telegram support. Free, no ads.
+- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Official Android app. Telegram support. Free, open source, no ads.
+- [FeedTV](https://github.com/juanro49/FeedTV): App that allows you to read news via RSS in addition to viewing channels from this repository. Free and open source.
+
+#### iOS
+- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
+- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - developed by [RubenApps](https://ruben.app/): Telegram support. Free, no ads.
+- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Telegram support. Free, no ads.
+
+#### iPadOS
+- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
+
+#### macOS
+- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
+- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - developed by [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
 ### Help
 _Wiki_ of the project [aquí](https://github.com/LaQuay/TDTChannels/wiki).
@@ -102,28 +117,6 @@ _Wiki_ of the project [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 *01/2018* - [Xataka Android - Nueve aplicaciones para ver la televisión gratis en un móvil Android](https://www.xatakandroid.com/aplicaciones-android/nueve-aplicaciones-para-ver-la-television-gratis-en-un-movil-android)
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
-
-### Apps/Webs that use our data base
-#### Web
-- [TDTChannels](https://www.tdtchannels.com/): Telegram support. Official web.
-- [Teleonline](http://teleonline.org/)
-
-#### Android
-- [TDTChannels](https://www.tdtchannels.com): Official Android app. Telegram support. Free, no ads.
-- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Official Android app. Telegram support. Free, open source, no ads.
-- [FeedTV](https://github.com/juanro49/FeedTV): App that allows you to read news via RSS in addition to viewing channels from this repository. Free and open source.
-
-#### iOS
-- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
-- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - developed by [RubenApps](https://ruben.app/): Telegram support. Free, no ads.
-- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Telegram support. Free, no ads.
-
-#### iPadOS
-- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
-
-#### macOS
-- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
-- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - developed by [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
 ### License of the project
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
