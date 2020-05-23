@@ -4,7 +4,14 @@ TDTChannels is a worldwide platform with the objective of offer all the TV and r
 Last update 00/00/2020 at 00:00 AM/PM
 
 ### How it works
-
+#### Web 
+You don't have to worry about anything, install the apps and enjoy!
+#### Android 
+You don't have to worry about anything, install the apps and enjoy!
+#### iOS/iPadOS/macOS
+First, you have to enter on the Countries file and search the countries whose channels you want to watch and copy the m3u8 tv and radio file in the settings and the xml of the EPG too.
+#### M3U8/M3U generic player 
+First, you have to enter on the Countries file and search the countries whose channels you want to watch and copy the m3u8 file or the m3u file of the tv or the radio repository to the player.
 
 ### Tools
 | | Link |
@@ -28,7 +35,7 @@ Last update 00/00/2020 at 00:00 AM/PM
 | -	| -	|:-:|:-:|:-:| - |
 | TDTChannels	| https://www.tdtchannels.com/android	| ✔ | ✔ | ✔ | LaQuay |
 | TDTChannels Open	| https://github.com/LaQuay/TDTChannels-APP	| ❌ | ✔ | ✔ | LaQuay |
-| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | Unknown |
+| FeedTV	| https://github.com/juanro49/FeedTV	| ❌ | ✔ | ✔ | [Juanro49](https://github.com/juanro49) |
 
 #### iOS
 | | Website | Official support | Free | No ads | Developer |
