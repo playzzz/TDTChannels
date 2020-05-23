@@ -1,15 +1,11 @@
-# TDTChannels - Canales IPTV en abierto
-Lista de canales de televisión, y radio, que se emiten en abierto por Internet. Especialmente enfocado a España, y a los principales canales Internacionales del mundo. Además la programación EPG está disponible e integrada automáticamente en los ficheros generados.
+# TDTChannels - IPTV channels for free without any ad
+TDTChannels is a worldwide platform with the objective of offer all the TV and radio channels available openly of any country.
+Last update 00/00/2020 at 00:00 AM/PM
 
-### Listas de reproducción
-[Fecha de última actualización](https://www.tdtchannels.com/lists/). Y listado de todas las listas disponibles.
+### How it works
 
-| Tipo | Formato | | | | | |
-| -	| - | -	| -	| -	| -	| -	|
-| **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](https://www.tdtchannels.com/lists/channels.json) | [m3u8](https://www.tdtchannels.com/lists/channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv) | [w3u](https://www.tdtchannels.com/lists/channels.w3u) |
-| **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](https://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](https://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/radio_channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_radio.tv) | [w3u](https://www.tdtchannels.com/lists/radio_channels.w3u) |
-| **TV+Radio** | - | - | [m3u8](https://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](https://www.tdtchannels.com/lists/combo_channels.m3u) | [enigma2](https://www.tdtchannels.com/lists/userbouquet.tdtchannels_combo.tv) | [w3u](https://www.tdtchannels.com/lists/combo_channels.w3u) |
-| **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](https://www.tdtchannels.com/epg/TV.xml) | [xml.gz](https://www.tdtchannels.com/epg/TV.xml.gz) | - | - | - |
+
+
 
 - *Navegador*: Visionado "manual" en el navegador.
 - *JSON*: Formato de datos especial para otros programas de lectura de datos.
@@ -27,10 +23,10 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
 | **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
-### Ayuda
-_Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
+### Help
+_Wiki_ of the project [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
-### Noticias
+### We appear in
 *05/2020* - [SatCESC - TDTChannels, nueva versión para ver la televisión por internet](https://satcesc.com/2020/05/09/tdt-channels-nueva-version-television-por-internet)
 
 *05/2020* - [SatCESC - TDTChannels ya es compatible con iPhone y iPad](https://satcesc.com/2020/05/05/tdtchannels-ya-es-compatible-con-iphone-y-ipad)
@@ -107,41 +103,45 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 *01/2018* - [Plugins XBMC - IPTV en Abierto](https://www.pluginsxbmc.com/2018/01/canales-iptv-en-abierto.html)
 
-### Aplicaciones/Webs que consumen este repositorio
+### Apps/Webs that use our data base
 #### Web
-- [TDTChannels](https://www.tdtchannels.com/): Soporte en Telegram. Web oficial para reproducir la lista de este proyecto.
+- [TDTChannels](https://www.tdtchannels.com/): Telegram support. Official web.
 - [Teleonline](http://teleonline.org/)
 
 #### Android
-- [TDTChannels](https://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
-- [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
+- [TDTChannels](https://www.tdtchannels.com): Official Android app. Telegram support. Free, no ads.
+- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Official Android app. Telegram support. Free, open source, no ads.
+- [FeedTV](https://github.com/juanro49/FeedTV): App that allows you to read news via RSS in addition to viewing channels from this repository. Free and open source.
 
 #### iOS
-- [TDTChannels](https://testflight.apple.com/join/rvIHQRLj) - de Jako88: Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - de [RubenApps](https://ruben.app/): Soporte en Telegram. Gratuita, de código abierto, sin anuncios. 
-- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Soporte en Telegram. Gratuita, sin anuncios.
+- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
+- [TDTChannels](https://github.com/Rubenfer/TDTChannels) - developed by [RubenApps](https://ruben.app/): Telegram support. Free, no ads.
+- [IPTVPlayer](https://telegra.ph/Configuraci%C3%B3n-de-IPTVPlayer-con-canales-TDT-02-17): Telegram support. Free, no ads.
+
+#### iPadOS
+- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
 
 #### macOS
-- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - de [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
+- [TDTChannels](https://apps.apple.com/es/app/tdtchannels-2/id1511466333) - developed by Jako88: Telegram support. Free, no ads.
+- [IPTV](https://github.com/Patriciooo/IPTV-MacOS-grupos-TDTChannels) - developed by [LaWebDePatricio](https://www.lawebdepatricio.es/Home/Apps).
 
-### Licencia del proyecto
+### License of the project
 [LICENSE](https://github.com/LaQuay/TDTChannels/blob/master/LICENSE) 
 
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explicitamente en el mismo.
+As indicated in the MIT license, anyone can make use of this repository as they see fit, the only condition being that you must be able to see that the information you are using comes from this repository. In the case of _software_, the attribution must be explicitly visible in it.
 
-#### Ley de propiedad
-En este proyecto y en la web de reproducción **no se almacena ningún *stream***, únicamente enlaces que proporciona el mismo distribuidor de la emisión de forma oficial, mediante su propia web o servicio público. Si posees los derechos de algún canal y deseas que lo retire, contáctame.
+#### Property law
+In this project and in the reproduction web **no *stream*** is stored, only links that the same distributor of the emission provides in an official way, through its own web or public service. If you own the rights of any channel and you want me to remove it, contact me.
 
-### Colaborar
+### Collaborate
 [CONTRIBUTING](https://github.com/LaQuay/TDTChannels/blob/master/CONTRIBUTING.md)
 
-Si localizas algún fallo, o deseas añadir algún canal, puedes abrir una *issue*. Si además sabes solucionarlo, puedes hacer una *pull-request*. Recuerda por favor incluir la fuente original de la emisión.
+If you locate a bug, or want to add a channel, you can open an *issue*. If you also know how to solve it, you can make a *pull-request*. Please remember to include the original source of the broadcast.
 
 > <a href="https://www.buymeacoffee.com/mLaQuay"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>   
-> Si te es útil este proyecto, considera realizar una pequeña donación. :relaxed:
+> If you find this project useful, consider making a small donation. :relaxed:
 
-### Agradecimientos
+### Acknowledgements
 [AUTHORS](https://github.com/LaQuay/TDTChannels/blob/master/AUTHORS.md)
 
-Y a todos aquellos que han colaborado, ya sea reportando un fallo o aportando enlaces!
+And to all those who have contributed, either by reporting a bug or providing links!
