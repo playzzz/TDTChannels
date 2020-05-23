@@ -9,9 +9,9 @@ You don't have to worry about anything, install the apps and enjoy!
 #### Android 
 You don't have to worry about anything, install the apps and enjoy!
 #### iOS/iPadOS/macOS
-First, you have to enter on the Countries file and search the countries whose channels you want to watch and copy the m3u8 tv and radio file in the settings and the xml of the EPG too.
+First, you have to enter on the [Countries file](https://github.com/playzzz/TDTChannels/blob/master/COUNTRIES.md) and search the countries whose channels you want to watch and copy the m3u8 tv and radio file in the settings and the xml of the EPG too.
 #### M3U8/M3U generic player 
-First, you have to enter on the Countries file and search the countries whose channels you want to watch and copy the m3u8 file or the m3u file of the tv or the radio repository to the player.
+First, you have to enter on the [Countries file](https://github.com/playzzz/TDTChannels/blob/master/COUNTRIES.md) and search the countries whose channels you want to watch and copy the m3u8 file or the m3u file of the tv or the radio repository to the player.
 
 ### Tools
 | | Link |
