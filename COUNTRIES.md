@@ -1,5 +1,63 @@
 # Countries by the continent
 
+## Africa
+| Flag | Country | TV md | Radio md | Format | | | | | | |
+|:---:| - | - | - | - | - | - | - | - | - | - |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/algeria.png" width="30"/> | Algeria | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/angola.png" width="30"/> | Angola | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/benin.png" width="30"/> | Benin | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/botswana.png" width="30"/> | Botswana | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/burkina-faso.png" width="30"/> | Burkina Faso | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/burundi.png" width="30"/> | Burundi | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/cameroon.png" width="30"/> | Cameroon | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/cape-verde.png" width="30"/> | Cape Verde | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/central-african-republic.png" width="30"/> | Central African Republic | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/chad.png" width="30"/> | Chad | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/comoros.png" width="30"/> | Comoros | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/democratic-republic-of-congo.png" width="30"/> | Democratic Republic of the Congo | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/djibouti.png" width="30"/> | Djibouti | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/egypt.png" width="30"/> | Egypt | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/equatorial-guinea.png" width="30"/> | Equatorial Guinea | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/eritrea.png" width="30"/> | Eritrea | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/swaziland.png" width="30"/> | Eswatini (Swaziland) | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/ethiopia.png" width="30"/> | Ethiopia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/gabon.png" width="30"/> | Gabon | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/gambia.png" width="30"/> | The Gambia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/ghana.png" width="30"/> | Ghana | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/guinea.png" width="30"/> | Guinea | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/guinea-bissau.png" width="30"/> | Guinea-Bissau | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/ivory-coast.png" width="30"/> | Ivory Coast (Cöte d'Ivoire) | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/kenya.png" width="30"/> | Kenya | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/lesotho.png" width="30"/> | Lesotho | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/liberia.png" width="30"/> | Liberia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/libya.png" width="30"/> | Libya | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/madagascar.png" width="30"/> | Madagascar | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/malawi.png" width="30"/> | Malawi | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/mali.png" width="30"/> | Mali | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/mauritania.png" width="30"/> | Mauritania | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/mauritius.png" width="30"/> | Mauritius | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/morocco.png" width="30"/> | Morocco | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/mozambique.png" width="30"/> | Mozambique | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/namibia.png" width="30"/> | Namibia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/niger.png" width="30"/> | Niger | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/nigeria.png" width="30"/> | Nigeria | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/republic-of-the-congo.png" width="30"/> | Republic of the Congo | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/rwanda.png" width="30"/> | Rwanda | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/sao-tome-and-principe.png" width="30"/> | São Tomé and Príncipe | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/senegal.png" width="30"/> | Senegal | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/seychelles.png" width="30"/> | Seychelles | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/sierra-leone.png" width="30"/> | Sierra Leone | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/somalia.png" width="30"/> | Somalia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/south-africa.png" width="30"/> | South Africa | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/south-sudan.png" width="30"/> | South Sudan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/sudan.png" width="30"/> | Sudan | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/tanzania.png" width="30"/> | Tanzania | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/togo.png" width="30"/> | Togo | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/tunisia.png" width="30"/> | Tunisia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/uganda.png" width="30"/> | Uganda | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/zambia.png" width="30"/> | Zambia | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/zimbabwe.png" width="30"/> | Zimbabwe | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+
 ## Asia
 | Flag | Country | TV md | Radio md | Format | | | | | | |
 |:---:| - | - | - | - | - | - | - | - | - | - |
