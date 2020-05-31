@@ -1,4 +1,4 @@
-# Emisoras de Radio <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/portugal.png" width="25"/>
+# Emisoras de Radio <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/spain.png" width="25"/>
 
 ## Nacionales
 
@@ -841,23 +841,3 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio Exterior | [mp3](https://radioexterior.rtveradio.cires21.com/radioexterior_hc.mp3) | [web](http://www.rtve.es/alacarta/live_radio_PopUp.shtml?id=1712404) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
-| RNA Andorra | [m3u8](http://videos.rtva.ad:1935/live/rna/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/rna) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
-| AM Andorra | [m3u8](https://videos.rtva.ad/live/am/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/am) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
-| SER - Principat d'Andorra | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ser_principat_d_andorra/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
-| QMusic Holanda | [m3u8](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_audio.m3u8) | [web](https://qmusic.nl/player/qmusic_nl/index.html) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
-| Sputnik News Español | [mp3](http://icecast-ruvr.cdnvideo.ru/rian.voicespa?hash=.mp3) | [web](https://sputniknews.com/) | [logo](https://graph.facebook.com/SputnikNews/picture?width=200&height=200) | - | - |
-| BFBS Gibraltar 1 | [mp3](https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac) | [web](https://radio.bfbs.com/stations/bfbs-gibraltar) | [logo](https://graph.facebook.com/BFBSRadio/picture?width=200&height=200) | - | - |
-| BFBS Gibraltar 2 | [mp3](https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac) | [web](https://radio.bfbs.com/stations/bfbs-gibraltar) | [logo](https://graph.facebook.com/BFBSRadio/picture?width=200&height=200) | - | - |
-| Radio Swiss Jazz | [stream](http://stream.srg-ssr.ch/m/rsj/mp3_128) | [web](http://www.radioswissjazz.ch/en) | [logo](http://www.radioswissjazz.ch/assets/logos-claim/rsj-logo-claim-desktop-743c15e642e0ed09bb7fa1bbbd72f2d1.png) | - | - |
-| CBN Classic Christian | [stream](https://streams.cbnradio.com/Classic-Christian-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=classicchristian&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/classic300x300.jpg) | - | - |
-| CBN Praise | [stream](https://streams.cbnradio.com/praise-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=praise&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/praise300x300.jpg) | - | - |
-| CBN Selah | [stream](https://streams.cbnradio.com/instrumental-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=selah&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/selah300x300.jpg) | - | - |
-| CBN Cross Country | [stream](https://streams.cbnradio.com/country-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=crosscountry&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/cross-country300x300.jpg) | - | - |
-| CBN Contemporary | [stream](https://streams.cbnradio.com/contemporary-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=contemporary&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/contemporary300x300.jpg) | - | - |
-| CBN Gospel | [stream](https://streams.cbnradio.com/gospel-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=gospel&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/gospel300x300.jpg) | - | - |
-| CBN Southern Gospel | [stream](https://streams.cbnradio.com/southern-gospel-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=southerngospel&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/southern-gospel300x300.jpg) | - | - |
-| CBN Superbook | [stream](https://streams.cbnradio.com/superbook-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=superbook&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/superbook300x300.jpg) | - | - |
-| CBN Fiesta Hoy | [stream](https://streams.cbnradio.com/fiesta-hoy-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=fiestahoy&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/fiestahoy300x300.jpg) | - | - |
-| CBN News | [stream](https://streams.cbnradio.com/news-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=cbnnews&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/news300x300.jpg) | - | - |
-| CBN Christmas | [stream](https://streams.cbnradio.com/christmas-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=christmas&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/christmas300x300.jpg) | - | - |
-| CBN Cross Country Christmas | [stream](https://streams.cbnradio.com/country-christmas-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=crosscountrychristmas&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg) | - | - |
