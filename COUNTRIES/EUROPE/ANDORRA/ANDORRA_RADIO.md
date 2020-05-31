@@ -1,4 +1,4 @@
-# Emisoras de Radio <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/andorra.png" width="25"/>
+# Emissores de Radio <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/andorra.png" width="25"/>
 
 ## Nacionals
 
