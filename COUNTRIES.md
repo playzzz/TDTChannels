@@ -115,7 +115,7 @@
 | Flag | Country | TV md | Radio md | Format | | | | | | |
 |:---:| - | - | - | - | - | - | - | - | - | - |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/albania.png" width="30"/> | Albania | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/andorra.png" width="30"/> | Andorra | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/andorra.png" width="30"/> | Andorra | [tv](https://github.com/playzzz/TDTChannels/blob/master/COUNTRIES/EUROPE/ANDORRA/ANDORRA_TV.md) | [radio](https://github.com/playzzz/TDTChannels/blob/master/COUNTRIES/EUROPE/ANDORRA/ANDORRA_RADIO.md) | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/austria.png" width="30"/> | Austria | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/belarus.png" width="30"/> | Belarus | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/belgium.png" width="30"/> | Belgium | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
@@ -177,7 +177,7 @@
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/nicaragua.png" width="30"/> | Nicaragua | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/panama.png" width="30"/> | Panama | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 | <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/puerto-rico.png" width="30"/> | Puerto Rico | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
-| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/united-states-of-america.png" width="30"/> | United States of America | [tv]() | [radio]() | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
+| <img src="https://raw.githubusercontent.com/playzzz/TDTChannels/master/FLAGS/united-states-of-america.png" width="30"/> | United States of America | [tv](https://github.com/playzzz/TDTChannels/blob/master/COUNTRIES/NORTH%20AMERICA/UNITED%20STATES/UNITEDSTATES_TV.md) | [radio](https://github.com/playzzz/TDTChannels/blob/master/COUNTRIES/NORTH%20AMERICA/UNITED%20STATES/UNITEDSTATES_RADIO.md) | [json]() | [m3u8]() | [m3u]() | [w3u]() | [enigma2]() | [EPG xml]() | [EPG xml.gz]() |
 
 ## Oceania
 | Flag | Country | TV md | Radio md | Format | | | | | | |
