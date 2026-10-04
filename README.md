@@ -52,7 +52,7 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki), y pregu
 
 ### Licencia del proyecto [↗](LICENSE)
 
-Tal como indica la licencia MIT, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explícitamente en el mismo.
+Tal como indica la licencia Apache License 2.0, cualquier persona puede hacer el uso que considere de este repositorio, el único condicionante es que se debe poder ver que la información que está utilizando procede de este repositorio. En el caso de _software_, la atribución debe ser visible explícitamente en el mismo.
 
 ### Legal
 #### Ley de propiedad
