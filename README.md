@@ -3,7 +3,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 Además la programación EPG (guía de tv) está disponible e integrada automáticamente en los ficheros generados.
 
 ### Listas de reproducción
-[Listado](https://www.tdtchannels.com/listas) con todas las listas disponibles. Haz [click aquí](https://www.tdtchannels.com/catalogo/television/) para saber el estado de las listas y comprobar qué emisiones hay en cada lista.
+[Listado](https://www.tdtchannels.com/listas) con todas las listas disponibles. Haz [clic aquí](https://www.tdtchannels.com/catalogo/television/) para saber el estado de las listas y comprobar qué emisiones hay en cada lista.
 
 | Lista | MD | JSON | M3U8 | M3U | M3U8 + MPD | Enigma2 |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
