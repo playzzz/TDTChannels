@@ -410,8 +410,9 @@
 | LOS40 Cuenca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CUENCA.mp3) | [web](https://los40.com/tag/provincia_cuenca/a/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | Surco Tomelloso | [stream](https://node-19.zeno.fm/52vdh1y07qzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
 | Surco Manzanares | [stream](https://node-31.zeno.fm/v9k530trzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | - |
-| RM La Manchuela | [stream](https://cast2.rmradio.es:8053/campillo) | [web](https://rmradio.es/radios/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
-| RM Quintanar del Rey | [stream](https://cast2.rmradio.es:8053/albacete) | [web](https://rmradio.es/radios/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
+| RM La Manchuela - Cuenca | [stream](https://cast2.rmradio.es:8053/campillo) | [web](https://rmradio.es/radios/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
+| RM Quintanar del Rey - Albacete | [stream](https://cast2.rmradio.es:8053/albacete) | [web](https://rmradio.es/radios/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
+| RM Requena - Utiel | [stream](https://cast2.rmradio.es:8053/mira) | [web](https://rmradio.es/radios/) | [logo](https://pbs.twimg.com/profile_images/1227224148079980544/kkxXv9jL_200x200.jpg) | - | - |
 | Locactiva Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/locactivaradio?mp=/stream) | [web](https://www.locactivaradio.es) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](https://www.radiokolor.es) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
 | La Única FM | [stream](https://stream.radiofutura.es:8010/stream) | [web](https://www.launicafm.com) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
