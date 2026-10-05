@@ -40,6 +40,7 @@ Marc Vila, fundador de TDTChannels, fue distinguido con la mención **FiberEmpre
 
 ### Septiembre
 
+- **okdiario** — [Giro inaudito en la TDT en España: llegan 29 canales nuevos totalmente gratis y 8 de ellos son de deportes](https://okdiario.com/cool/television/giro-inaudito-tdt-espana-llegan-29-canales-nuevos-totalmente-gratis-8-ellos-son-deportes-20457873)
 - **Xataka Smart Home** — [Llegan más canales de TV y radio gratis, sin registro, antena de TDT ni instalación a TDTChannels: estas son las novedades](https://www.xatakahome.com/servicios-de-smart-tv/llegan-canales-tv-radio-gratis-registro-antena-tdt-instalacion-a-tdtchannels-estas-novedades-4)
 - **Computer Hoy** — [¡Actualiza ya! TDTChannels, la mejor app para ver gratis la TDT en el móvil, añade 8 canales nuevos llenos de deporte](https://computerhoy.20minutos.es/moviles/actualiza-ya-tdtchannels-mejor-app-para-ver-gratis-tdt-movil-anade-8-canales-nuevos-llenos-deporte_7042129_0.html)
 - **ADSLZone** — [La mejor app para ver la TDT en Smart TV añade ocho nuevos canales de deportes y más novedades gratis
